@@ -1,0 +1,31 @@
+{
+  "name": "zisay/chord",
+  "description": "PHP Database Model",
+  "type": "library",
+  "license": "Apache-2.0",
+  "autoload": {
+    "files": [
+      "function.php"
+    ],
+    "psr-4": {
+      "Zisay\\Chord\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zisay",
+      "email": "zisayzhang@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.0",
+    "ext-pdo": "*"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
