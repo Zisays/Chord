@@ -7,5 +7,5 @@
  */
 function o_o($data): void
 {
-    include './Page/output.php';
+    include 'page/output.php';
 }
