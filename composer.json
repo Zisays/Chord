@@ -1,6 +1,6 @@
 {
   "name": "zisay/chord",
-  "description": "PHP Database Model",
+  "description": "基于 PDO 实现的 PHP 多数据库扩展",
   "type": "library",
   "license": "Apache-2.0",
   "autoload": {
